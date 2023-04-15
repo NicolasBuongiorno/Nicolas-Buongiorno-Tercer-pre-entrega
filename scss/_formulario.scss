@@ -4,13 +4,9 @@ form{
 }
 
 form input{
-    font-size: 30px; background-color: $mainColor;
+    font-size: 30px; background: linear-gradient(to top, $mainColor , white);
 }
 
 textarea{
-    background-color: $mainColor;
-}
-
-.btn-gnral{
-    background-color: red;
+    background: linear-gradient(to top, $mainColor , white);
 }

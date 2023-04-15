@@ -163,15 +163,11 @@ form {
 
 form input {
   font-size: 30px;
-  background-color: rgb(165, 46, 46);
+  background: linear-gradient(to top, rgb(165, 46, 46), white);
 }
 
 textarea {
-  background-color: rgb(165, 46, 46);
-}
-
-.btn-gnral {
-  background-color: red;
+  background: linear-gradient(to top, rgb(165, 46, 46), white);
 }
 
 table {
