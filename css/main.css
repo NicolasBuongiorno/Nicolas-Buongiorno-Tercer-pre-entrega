@@ -145,6 +145,10 @@ p {
   justify-items: center;
 }
 
+.volver {
+  font-size: 2em;
+}
+
 footer {
   background-color: rgb(165, 46, 46);
 }
@@ -168,6 +172,15 @@ form input {
 
 textarea {
   background: linear-gradient(to top, rgb(165, 46, 46), white);
+}
+
+.a-button {
+  font-size: 30px;
+  background: linear-gradient(to top, rgb(165, 46, 46), white);
+  text-decoration: none;
+  display: flex;
+  color: black;
+  border-radius: 3px;
 }
 
 table {

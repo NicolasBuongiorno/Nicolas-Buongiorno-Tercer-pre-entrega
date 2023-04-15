@@ -15,7 +15,6 @@ header img{
 .bg-pattern{
     background-image: url(../img/madera\ clara.png);
     background-repeat: repeat;
-    
 }
 
 .text-center{
@@ -42,7 +41,7 @@ p{
 
 .alinear-p{
     display: flex;
-
+    
 }
 
 .right-p{
@@ -84,3 +83,7 @@ p{
     margin: 0 20%;
     justify-items: center;
  }
+
+.volver{
+    font-size: $textSm;
+}

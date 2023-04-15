@@ -10,3 +10,11 @@ form input{
 textarea{
     background: linear-gradient(to top, $mainColor , white);
 }
+
+.a-button{
+    font-size: 30px; background: linear-gradient(to top, $mainColor , white);
+    text-decoration: none;
+    display: flex;
+    color: black;
+    border-radius: 3px;
+}
